@@ -1,4 +1,4 @@
-# Photonic Integrated Circuit (PIC) Design Portfolio
+# Photonic Integrated Circuit (PIC) Design 
 
 This repository contains my Photonic Integrated Circuit (PIC) design projects developed during my research and training in integrated photonics. It includes the design, simulation, and layout generation of various passive photonic components using Python, GDSFactory, and Lumerical.
 
