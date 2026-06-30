@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="Images_Sim/Demux.png" width="700">
+  <img src="Images_Sim/DeMux.png" width="800">
 </p>
