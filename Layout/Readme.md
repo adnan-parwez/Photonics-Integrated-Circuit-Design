@@ -16,7 +16,7 @@ The layouts include:
 The main part of this work is a layout I created based on a research paper. 
 I followed the design described in the paper and built the layout myself to 
 practice and understand how it works.
-![My PIC Layout](Images/Layout1.png)
+![PIC Layout](Images/Layout1.png)
 
 
 With some more components
