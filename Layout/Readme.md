@@ -23,7 +23,9 @@ With some more components
 ![My PIC Layout](Images/Layout2.png)
 
 
+![My PIC Layout](Images/Hexa.png)
 
+![My PIC Layout](Images/Hexafull.png)
 ## Paper Reference
 **Title:** Fabrication-Tolerant CWDM (De)Multiplexer Based on Cascaded Mach-Zehnder 
 Interferometers (MZI) on SOI  
