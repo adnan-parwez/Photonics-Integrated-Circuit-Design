@@ -3,6 +3,7 @@
 ## About this repository
 This repository contains the work I have done while completing my training program 
 in Photonic Integrated Circuit (PIC) layout design.
+![My PIC Layout](Images/Layout1.png)
 
 The main part of this work is a layout I created based on a research paper. 
 I followed the design described in the paper and built the layout myself to 
