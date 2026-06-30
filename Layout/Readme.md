@@ -11,15 +11,18 @@ The layouts include:
 - Layout implementation of a CWDM (De)Multiplexer.
 - Additional photonic components designed to improve my understanding of PIC development.
 
-- 
-## About this repository
-This repository contains the work I have done while completing my training program 
-in Photonic Integrated Circuit (PIC) layout design.
-![My PIC Layout](Images/Layout1.png)
 
+## 2. CWDM (De)Multiplexer Layout
 The main part of this work is a layout I created based on a research paper. 
 I followed the design described in the paper and built the layout myself to 
 practice and understand how it works.
+![My PIC Layout](Images/Layout1.png)
+
+
+With some more components
+![My PIC Layout](Images/Layout2.png)
+
+
 
 ## Paper Reference
 **Title:** Fabrication-Tolerant CWDM (De)Multiplexer Based on Cascaded Mach-Zehnder 
