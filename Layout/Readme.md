@@ -1,5 +1,17 @@
-# PIC Layout Project
+# PIC Layout
+This folder contains various PIC layout designs developed during my training using **GDSFactory**. These layouts helped me understand the design flow of photonic integrated circuits, component placement, routing, and hierarchical cell design.
 
+The work includes instructor-provided examples for learning, independent practice layouts, and layouts based on published research.
+
+
+The layouts include:
+
+- Custom PIC layout designs created for practice.
+- Layout of a Cascaded Mach–Zehnder Interferometer (MZI).
+- Layout implementation of a CWDM (De)Multiplexer.
+- Additional photonic components designed to improve my understanding of PIC development.
+
+- 
 ## About this repository
 This repository contains the work I have done while completing my training program 
 in Photonic Integrated Circuit (PIC) layout design.
