@@ -12,7 +12,9 @@ This layout illustrates a hexagonal arrangement of cascaded **Mach–Zehnder Int
 
 Each MZI consists of optical splitters, waveguide arms, and combiners. The integrated heaters are positioned above the waveguides to enable **thermo-optic phase tuning**. By applying electrical power to the heaters, the refractive index of the waveguide changes due to the thermo-optic effect, allowing precise control of the optical phase difference between the interferometer arms. This phase tuning is essential for controlling the interference pattern and optimizing the device performance in many silicon photonic applications.
 
-![My PIC Layout](Images/Hexafull.png)
+<p align="center">
+  <img src="Layout/Hexafull.png" width="700">
+</p>
 Working with this layout helped me understand:
 - Mach–Zehnder Interferometer (MZI) operation.
 - Thermo-optic phase tuning using integrated heaters.
