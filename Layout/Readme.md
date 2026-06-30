@@ -6,7 +6,7 @@ The work includes instructor-provided examples for learning, independent practic
 
 ## 2. Hexagonal Mach–Zehnder Interferometer (MZI) with Thermal Heaters (Instructor Example)
 
-![Hexagonal MZI](Layout/Hexa.png)
+![My PIC Layout](Images/Hexa.png)
 
 This layout illustrates a hexagonal arrangement of cascaded **Mach–Zehnder Interferometers (MZIs)** integrated with **thermal heaters**. The design was provided by my instructor as a learning example and was implemented using the **Generic PDK** in GDSFactory.
 
