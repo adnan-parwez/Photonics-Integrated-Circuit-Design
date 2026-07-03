@@ -4,10 +4,10 @@ This repository presents a collection of Photonic Integrated Circuit (PIC) layou
 
 The objective of this repository is to demonstrate practical experience in:
 
-PIC layout design
-Silicon photonics
-GDSFactory
-Hierarchical cell design
-Optical routing
-Passive photonic devices
-Design reproducibility from research publications
+-PIC layout design
+-Silicon photonics
+-GDSFactory
+-Hierarchical cell design
+-Optical routing
+-Passive photonic devices
+-Design reproducibility from research publications.
