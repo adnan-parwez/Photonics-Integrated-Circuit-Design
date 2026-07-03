@@ -1,4 +1,4 @@
-# Photonic Integrated Circuit (PIC) Design 
+# Photonic Integrated Circuit (PIC) Portfolio
 
 This repository presents a collection of Photonic Integrated Circuit (PIC) layouts and design projects completed during the PIC-UPV PERTE CHIP Specialized Training Program.
 
