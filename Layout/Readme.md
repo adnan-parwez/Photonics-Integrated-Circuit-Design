@@ -51,16 +51,4 @@ With some more components
 
 
 ## Paper Reference
-**Title:** Fabrication-Tolerant CWDM (De)Multiplexer Based on Cascaded Mach-Zehnder 
-Interferometers (MZI) on SOI  
-**Author:** Tzu-Hsiang Yen
-
-## What I did
-- Studied the design described in the paper.
-- Reproduced the layout of the cascaded MZI filter on a Silicon-on-Insulator (SOI) platform.
-- Used this as part of my training to learn PIC layout design.
-
-## Purpose
-This repository is mainly to show my progress and the work I completed during 
-my training, so others can see what I have learned and done so far.
-
+Yen, Tzu-Hsiang & Hung, Yung-Jr. (2020). Fabrication-Tolerant CWDM (de)Multiplexer Based on Cascaded Mach–Zehnder Interferometers on Silicon-on-Insulator. Journal of Lightwave Technology. PP. 1-1. 10.1109/JLT.2020.3026314. 
