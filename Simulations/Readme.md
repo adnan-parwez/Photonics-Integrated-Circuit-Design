@@ -110,7 +110,7 @@ Using the simulated waveguide and coupler parameters, a circuit-level model of a
   <tr>
     <td align="center" width="50%">
       <img src="Images_Sim/Sax.png" width="70%"/><br>
-      <sub><b>Fig. 9. </b> </sub>
+      <sub><b>Fig. 9.</b> SAX implementation of a MZI using directional couplers and waveguides.</sub>
     </td>
   </tr>
 </table>
@@ -123,8 +123,8 @@ Simulated transmission spectrum of the S2 MZI stage, showing the through and dro
 <table align="center">
   <tr>
     <td align="center" width="70%">
-      <img src="Images_Sim/MZI1.png" width="80%"/><br>
-      <sub><b>Fig. 10.</b> Simulated transmission spectrum of the S2 MZI stage, showing the through and drop ports.</sub>
+      <img src="Images_Sim/MZI2.png" width="80%"/><br>
+      <sub><b>Fig. 10.</b> Simulated transmission spectrum of the S1 and S2 MZI stage, showing the through and drop ports.</sub>
     </td>
   </tr>
 </table>
