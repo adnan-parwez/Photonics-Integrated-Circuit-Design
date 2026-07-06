@@ -27,6 +27,7 @@ The simulations confirmed that the selected waveguide dimensions support the fun
   <img src="Images_Sim/NeffvsWavelength.png" width="800">
 </p>
 
+
 # Design of Directional Couplers
 
 Directional couplers are one of the most important passive components in photonic integrated circuits because they divide optical power between two waveguides. The objective of this part was to design directional couplers with different coupling ratios required for the cascaded Mach–Zehnder interferometer.
@@ -42,6 +43,7 @@ A parameter sweep was performed by changing the gap between the waveguides and t
 <p align="center">
   <img src="Images_Sim/DC_str.png" width="800">
 </p>
+
 
 <p align="center">
   <img src="Images_Sim/DCTEO.png" width="800">
