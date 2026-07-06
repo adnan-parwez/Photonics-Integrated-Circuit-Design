@@ -46,7 +46,7 @@ A parameter sweep was performed by changing the gap between the waveguides and t
 
 
 <p align="center">
-  <img src="Images_Sim/DCTEO.png" width="800">
+  <img src="Images_Sim/DCTE0.png" width="800">
 </p>
 
 
