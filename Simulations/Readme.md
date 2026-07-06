@@ -95,12 +95,17 @@ Using the simulated waveguide and coupler parameters, a circuit-level model of a
 </p>
 
 
-Simulated transmission spectrum of the S1 MZI stage, showing the through and drop ports.
+Simulated transmission spectrum of the S2 MZI stage, showing the through and drop ports.
 
-<p align="center">
-  <img src="Images_Sim/MZI1.png" width="600">
-  <sub><b>Fig. 10.</b> </sub>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="70%">
+      <img src="Images_Sim/MZI1.png" width="80%"/><br>
+      <sub><b>Fig. 11.</b> Final Result of designed device.</sub>
+    </td>
+  </tr>
+</table>
 
 The individual S1 and S2 stages were connected into a four-stage cascaded network, forming the full 4-channel CWDM (de)multiplexer. The final circuit model was simulated across the 1.5–1.6 µm range to confirm that each of the four wavelength channels (1510 nm, 1530 nm, 1550 nm, 1570 nm) is correctly routed to its own output port.
 
