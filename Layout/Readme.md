@@ -50,5 +50,7 @@ With some more components
 
 
 
-## Paper Reference
-Yen, Tzu-Hsiang & Hung, Yung-Jr. (2020). Fabrication-Tolerant CWDM (de)Multiplexer Based on Cascaded Mach–Zehnder Interferometers on Silicon-on-Insulator. Journal of Lightwave Technology. PP. 1-1. 10.1109/JLT.2020.3026314. 
+## References
+
+T.-H. Yen and Y.-J. Hung, "Fabrication-Tolerant CWDM (De)Multiplexer Based on Cascaded Mach–Zehnder Interferometers on Silicon-on-Insulator," Journal of Lightwave Technology, vol. 39, no. 1, pp. 146–153, Jan. 2021.
+ 
